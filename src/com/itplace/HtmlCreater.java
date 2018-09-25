@@ -70,7 +70,7 @@ public class HtmlCreater {
                         "<div class=\"row\">" + config.getSkype() + "</div>" +
                     "</div>" +
                     "<div class=\"col-md-5\">" +
-                        "<img src =\"" + config.getAvatar() +  "\" width = \"100\" alt = \"Фото\">" +
+                        "<img src =\"" + config.getAvatar() +  "\" width = \"300\" alt = \"Фото\">" +
                     "</div>" +
                 "</div>";
     }

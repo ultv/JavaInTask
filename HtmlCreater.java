@@ -1,4 +1,4 @@
-package com.itplace;
+
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.FileOutputStream;

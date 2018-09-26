@@ -10,10 +10,14 @@
 
 * Запуск приложения
 ```
-copy folder to drive c:/
+- Скачайте архив из ветки "master" и распакуйте.
 
-cd c:/InTask/out/production/InTask
+- Откройте консоль и перейдите в папку "InTask".
 
-run "java com.itplace.Main"
+- Выполните команду "java Main".
+
+- Результат выполнения в файле "result.html".
+
+- Файл с исходными данными "config.properties".
 ```
 
